@@ -42,13 +42,13 @@
 3. Укажите логин и пароль (KBTU):
     - Создайте файл `.env`:
       ```
-      KBTU_LOGIN=ваш_логин
-      KBTU_PASSWORD=ваш_пароль
+      LOGIN=ваш_логин
+      PASSWORD=ваш_пароль
       ```
     - **ИЛИ** экспортируйте переменные окружения:
       ```bash
-      export KBTU_LOGIN=ваш_логин
-      export KBTU_PASSWORD=ваш_пароль
+      export LOGIN=ваш_логин
+      export PASSWORD=ваш_пароль
       ```
 
 ---
